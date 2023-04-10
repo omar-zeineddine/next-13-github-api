@@ -1,5 +1,6 @@
 import { Poppins } from "next/font/google";
 import Header from "./components/Header";
+import localFont from "next/font/local";
 
 import "./globals.css";
 
