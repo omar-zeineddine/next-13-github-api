@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "About team page",
+};
+
 const TeamPage = () => {
   return (
     <div>
